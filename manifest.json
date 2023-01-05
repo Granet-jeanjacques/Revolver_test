@@ -2,7 +2,7 @@
     "name": "Outward_Revolvers_test",
     "version_number": "1.0.0",
     "website_url": "https://github.com/Granet-jeanjacques/Revolver_test",
-    "description": "first mod i'm testing don't use it.",
+    "description": "First mod i'm testing don't use it.",
     "dependencies": [
 		"sinai-dev-SideLoader-3.8.4",
         "BepInEx-BepInExPack_Outward-5.4.19"

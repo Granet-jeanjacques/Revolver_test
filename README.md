@@ -1,4 +1,4 @@
 # Outward Revolvers_test
 
-training for modding
+Training for modding
 work in progress
