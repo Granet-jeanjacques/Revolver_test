@@ -128,7 +128,7 @@ Locking on enemies is vital to hit with guns.</Description>
       <AmmunitionType>Item</AmmunitionType>
       <CompatibleItemID>4400080</CompatibleItemID>
       <CompatibleEquipmentType>Arrow</CompatibleEquipmentType>
-      <MaxProjectileLoaded>6</MaxProjectileLoaded>
+      <MaxProjectileLoaded>3</MaxProjectileLoaded>
       <SaveRemainingShots>true</SaveRemainingShots>
       <ShowLoadedAmmunition>false</ShowLoadedAmmunition>
       <ReduceAmmunitionOnLoad>true</ReduceAmmunitionOnLoad>
