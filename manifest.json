@@ -1,7 +1,7 @@
 {
     "name": "Outward_Revolvers_test",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/MadServlet/OutwardRevolverMod",
+    "website_url": "https://github.com/Granet-jeanjacques/Revolver_test",
     "description": "first mod i'm testing don't use it.",
     "dependencies": [
 		"sinai-dev-SideLoader-3.8.4",
